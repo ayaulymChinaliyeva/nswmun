@@ -1,0 +1,9 @@
+C:\NSWMUN\NSWMUN\NSWMUN\bin\Release\NSWMUN.exe.config
+C:\NSWMUN\NSWMUN\NSWMUN\bin\Release\NSWMUN.exe
+C:\NSWMUN\NSWMUN\NSWMUN\bin\Release\NSWMUN.pdb
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.csprojResolveAssemblyReference.cache
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.Properties.Resources.resources
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.csproj.GenerateResource.cache
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.csproj.CoreCompileInputs.cache
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.exe
+C:\NSWMUN\NSWMUN\NSWMUN\obj\Release\NSWMUN.pdb
